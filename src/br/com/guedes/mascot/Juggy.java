@@ -1,4 +1,4 @@
-package br.com.guedes;
+package br.com.guedes.mascot;
 
 public class Juggy extends JavaMascot {
 
