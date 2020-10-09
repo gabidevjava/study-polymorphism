@@ -2,7 +2,7 @@
 
 > https://www.infoworld.com/article/3290403/java-challengers-3-polymorphism-and-inheritance.html
 
-Article: By Rafael Del Nero
+Article: Rafael Del Nero
 
 #### Polymorphism
 
